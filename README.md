@@ -1,2 +1,2 @@
-# wciwiki.github.io
-wciwiki.github.io
+# WciWiki
+The Wiki of Wci Language.
